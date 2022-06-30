@@ -45,3 +45,7 @@
   opacity: 1;
   transition: opacity 1s linear;
 }
+
+.iframe {
+  border: 0;
+}
