@@ -6,7 +6,3 @@
       transform: rotate(360deg);
     }
   }
-  
-  .header__link:hover, .feynman__link:hover, .khan__buy-link:hover, .column-link:hover, .resources__link:hover {
-    opacity: .5;
-  }

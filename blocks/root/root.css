@@ -37,15 +37,4 @@
   text-align: center;
 }
 
-.column-link {
-  text-decoration: none;
-  color: #fff;
-  line-height: 30px;
-  font-size: 18px;
-  opacity: 1;
-  transition: opacity 1s linear;
-}
 
-.iframe {
-  border: 0;
-}
